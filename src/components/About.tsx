@@ -60,7 +60,7 @@ export default function About() {
             <div className="relative overflow-hidden rounded-2xl aspect-[4/5] p-3 shadow-2xl transition-all duration-500 border border-white/10 bg-[#1F4D3A]/20 backdrop-blur-md hover:border-brand-mint/30">
               {/* Asset Path refers to generated file with absolute care */}
               <img 
-                src="/src/assets/images/editorial_education_art_1779548287378.png" 
+                src="/editorial_education_art_1779548287378.png" 
                 alt="Minimalist abstract watercolor art of modern early childhood education" 
                 className="w-full h-full object-cover rounded-xl"
                 referrerPolicy="no-referrer"
