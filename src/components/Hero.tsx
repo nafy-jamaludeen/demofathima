@@ -162,7 +162,7 @@ export default function Hero() {
             {/* Main organic/education background artwork */}
             <div className="absolute inset-0 w-full h-full p-2">
               <img 
-                src="/src/assets/images/children_creative_art_1779549239716.png" 
+                src="/children_creative_art_1779549239716.png" 
                 alt="Fathima Vakayil creative class style" 
                 className="w-full h-full object-cover rounded-t-[144px] rounded-b-md opacity-90 transition-transform duration-700 hover:scale-105"
                 referrerPolicy="no-referrer"
