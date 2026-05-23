@@ -138,7 +138,7 @@ export default function Skills() {
 
           <div className="relative group overflow-hidden max-w-[280px] w-full aspect-square rounded-2xl border border-white/10 shadow-2xl text-left bg-[#1F4D3A]/20 backdrop-blur-md p-2 shrink-0 z-10 transition-all duration-500 hover:scale-[1.03] hover:border-brand-mint/30">
             <img 
-              src="/src/assets/images/classroom_learning_art_1779549217370.png" 
+              src="/classroom_learning_art_1779549217370.png" 
               alt="Organic class materials of Fathima Vakayil" 
               className="w-full h-full object-cover rounded-xl opacity-95"
               referrerPolicy="no-referrer"
